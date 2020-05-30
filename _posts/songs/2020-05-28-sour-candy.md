@@ -7,7 +7,7 @@ categories: review song
 
 ![Sour Candy Poster][COVER]
 
-Empezamos el día con el estreno de la cación [*Sour Candy*][SOUR] interpretada por *Lady Gaga* en colaboración del grupo idol de [K-Pop][KPOP] (pop coreano) *BLACKPINK*. Una colaboración bastante esperada, principalmente, por los *BLINK* (nombre que recibe el fandom de *BLACKPINK*), pues esto podría significar la entrada normalizada de la música popular coreana al mercado occidental. No porque no se haya intentado antes, sin embargo, los intentos pasados han sido con grupos o artistas sin la suficiente influencia como para poder lograr algo así; sin embargo, de no haber sido por ellos, quizá esto nunca hubiera pasasdo. Por algo se empieza
+Empezamos el día con el estreno de la cación [*Sour Candy*][SOUR] interpretada por *Lady Gaga* en colaboración del grupo idol de [K-Pop][KPOP] (pop coreano) *BLACKPINK*. Una colaboración bastante esperada, principalmente, por los *BLINK* (nombre que recibe el fandom de *BLACKPINK*), pues esto podría significar la entrada normalizada de la música popular coreana al mercado occidental. No porque no se haya intentado antes, sin embargo, los intentos pasados han sido con grupos o artistas sin la suficiente influencia como para poder lograr algo así; por otra parte, de no haber sido por ellos, quizá esto nunca hubiera pasado. Por algo se empieza.
 
 ## Créditos de canción
 
@@ -21,7 +21,7 @@ Empezamos el día con el estreno de la cación [*Sour Candy*][SOUR] interpretada
 *BloodPop* y *BURNS*
 
 ## Primera Impresión
-No termino de comprender la canción. No quiero decir que es buena, claro; hay algo extraño en ella pero no sabría qué es. Como primera impresión puedo decir que es pasable, comienza firme y mantiene un ritmo muy amarrado en toda la canción. Quedé bastante confundido con la parte de [*Lady Gaga*][GAGA]. El inicio lo sentí perfecto para el estilo de [*BLACKPINK*][BP]
+No termino de comprender la canción. No quiero decir que es mala, claro; hay algo extraño en ella pero no sabría qué es. Como primera impresión puedo decir que es pasable, comienza firme y mantiene un ritmo muy amarrado en toda la canción. Quedé bastante confundido con la parte de [*Lady Gaga*][GAGA]. El inicio lo sentí perfecto para el estilo de [*BLACKPINK*][BP].
 
 ## Reseña
 *Sour Candy* nos recibe con un sonido muy *BLACKPINK* y sobra decir que es perfecto. Con un sonido un poco house, *Sour Candy* logra mantenerte enganchado en la canción de una manera impresionante; el beat que tiene se vuelve un *insta dance*, pues en el momento que lo escuchas sientes la necesidad de mover el cuerpo. Si me dijeran que es una canción de *BLACKPINK* a la que le sacaron remix con *Lady Gaga* (estilo [The Weeknd - In Your Eyes ft. Doja Cat][IYED]), definitivamente les creería. En el momento que empieza a cantar la interprete de [Bad Romance][BARO] se tiene el primer cambio de beat y el contraste más fuerte en toda la canción, lo que lo hace parecer un *remix*. Sin embargo, no todo lo raro es malo, pues ese mismo contraste es lo que lo hace funcionar; no se trata del típico *build up* para el coro intenso lleno de energía (como en [*Stupid Love*][STULO] y [*As If It's Your Last*][AIYL]) sino de algo más elegante. *Gaga* nos sorprende con tres versos muy tranquilos pero con la intensidad suficiente para dejarte atrapado por el beat y la melodía de su voz.
