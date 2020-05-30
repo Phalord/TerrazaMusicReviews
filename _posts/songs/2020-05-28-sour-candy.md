@@ -11,13 +11,13 @@ Empezamos el día con el estreno de la cación [*Sour Candy*][SOUR] interpretada
 
 ## Créditos de canción
 
-**Interpretada por**\
+**Interpretada por**  
 *BLACKPINK* y *Lady Gaga*
 
-**Escrita por**\
+**Escrita por**  
 *BloodPop*, *Hong Jun Park*, *Lady Gaga*, *Madison Emiko Love*, *Matthew Burns* y *Rami Yacoub*
 
-**Producida por**\
+**Producida por**  
 *BloodPop* y *BURNS*
 
 ## Primera Impresión
