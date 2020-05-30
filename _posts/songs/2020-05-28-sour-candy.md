@@ -29,7 +29,7 @@ No termino de comprender la canción. No quiero decir que es buena, claro; hay a
 ## Conclusión
 *Sour Candy* es un hitazo, un **MUST DANCE**. Definitivamente la canción perfecta para una fiesta con estilo rave underground.
 
-[COVER]: /assets/img/sour_candy.jpg "Sour Candy - Lady Gaga ft. BLACKPINK"
+[COVER]: /TerrazaMusicReviews/assets/img/sour_candy.jpg "Sour Candy - Lady Gaga ft. BLACKPINK"
 [GAGA]: https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms?si=ppN25qRnRkCv5nj5eFsDgA "Lady Gaga en Spotify"
 [BP]: https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF "BLACKPINK en Spotify"
 [SOUR]: https://open.spotify.com/track/6R6ZoHTypt5lt68MWbzZXv?si=y9uQGrsFREiq_7vyqyk1fQ "Listen to 'Sour Candy - Lady Gaga ft. BLACKPINK'"
