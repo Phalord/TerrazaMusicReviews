@@ -23,7 +23,7 @@ email: terrazamr@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Terraza Music Reviews representa a todo aquel 
   amante de la música por su esencia y no su complejidad.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "TerrazaMusicReviews" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Mr_Tunas
 github_username:  Phalord
