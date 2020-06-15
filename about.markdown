@@ -8,7 +8,9 @@ permalink: /about/
 
 Estas reseñas son escritas por un amante de la música, pero no soy un experto en ella, por lo que estas reseñas deben ser tomadas como mera opinión y no una crítia profesional.
 
-**Terraza Music Reviews** representa a todo aquel amante de la música por su esencia y no su complejidad. Este proyecto es independiente y se realiza por gusto; si gustas apoyar este proyecto, puedes dar clic en el siguiente botón
+**Terraza Music Reviews** representa a todo aquel amante de la música por su esencia y no su complejidad. 
+
+Este proyecto es independiente y se realiza por gusto. Por esta razón no encontrará anuncios en este blog. Lamentablemente, eso significa una complejidad para mantener la página en internet; si gustas apoyar este proyecto, puedes dar clic en el siguiente botón:
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
     <input type="hidden" name="cmd" value="_s-xclick" />
