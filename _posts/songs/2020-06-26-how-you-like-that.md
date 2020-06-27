@@ -35,7 +35,7 @@ El inicio de la canción se siente cinematográfico y a través de su duración 
 Y por si no fuera suficiente el final es aún más poderoso, energético y empoderante. Es que no me creo que en 30 segundos esa canción reviva a cualquiera; escuchas esos 30 segundos y se te reinicia la vida, vaya.
 
 ## Conclusión
-
+La neta sí me ando pasando de fanboy, pero es que es rolón y punto.
 
 ***Calificación:*** 9.5/10
 
