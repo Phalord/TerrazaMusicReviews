@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Un regreso digno de diosas; How You Like That?"
+title:  "BLACKPINK está de regreso y llegaron pa' romperla"
 date:   2020-06-26 20:03:34 -0500
 categories: review song
 ---
